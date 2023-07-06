@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reanore
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently working on [Viron](https://github.com/Reanore/Viron)
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me: Add .reanore on Discord and send a message
 
