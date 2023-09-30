@@ -11,13 +11,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reanore&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently learning **Artificial Intelligence and Machine Learning**
+- 📚 I am currently learning **Artificial General Intelligence and Neuroscience**
   
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 I am currently in the race of **Software Design and Development**
 
 - 🏙 CEO of [DropShop](https://dropshop.us.to) and [CogniTech](https://cognitech.us.to)
 
-- 📫 How to reach me **reanoreofficial@gmail.com**
+- 📫 How to reach me: email **reanoreofficial@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
