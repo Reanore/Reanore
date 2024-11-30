@@ -15,8 +15,6 @@
   
 - 🌱 I am currently in the race of **Software Design and Development**
 
-- 🏙 CEO of [DropShop](https://dropshop.us.to) and [CogniTech](https://cognitech.us.to)
-
 - 📫 How to reach me: email **reanoreofficial@gmail.com**
 
 <!-- CONTACTO -->
