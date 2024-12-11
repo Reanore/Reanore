@@ -7,13 +7,11 @@
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reanore&label=Profile%20views&color=0e75b6&style=flat" alt="reanore" /> </p>
 
-<!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reanore&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently learning **Artificial General Intelligence and Neuroscience**
   
-- 🌱 I am currently in the race of **Software Design and Development**
+- 🌱 Founder & CEO of the [Vonk](https://vonkpowered.com) gaming platform
 
 - 📫 How to reach me: email **reanoreofficial@gmail.com**
 
